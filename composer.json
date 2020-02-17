@@ -1,0 +1,16 @@
+{
+    "name": "rudin/library",
+    "authors": [
+        {
+            "name": "rudinandrey",
+            "email": "rudinandrey@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Library\\" : "Library/",
+            "Database\\" : "Database/"
+        }
+    }
+}

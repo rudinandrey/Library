@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2ee1db3-d32c-4db7-bfa8-81fec27bab55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Xwy5ayrbPi8bnLS09d2bRFEk11" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\study\Objects1\Library\Models\States" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2ee1db3-d32c-4db7-bfa8-81fec27bab55" name="Default Changelist" comment="" />
+      <created>1581971268113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581971268113</updated>
+      <workItem from="1581971269462" duration="3796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="999" y="579" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581975626005">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="999" y="579" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1581975626005" />
+    <state x="1044" y="526" key="NewPhpClassDialog" timestamp="1581976566545">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1044" y="526" key="NewPhpClassDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1581976566545" />
+    <state x="1096" y="643" key="NewPhpFileDialog" timestamp="1581976011952">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1096" y="643" key="NewPhpFileDialog/-1920.1069.1920.1020/0.0.2560.1400@0.0.2560.1400" timestamp="1581976011952" />
+  </component>
+</project>
